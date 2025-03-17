@@ -8,5 +8,9 @@
       "latest_version": "0.0.4",
       "download_url": "https://portal.cfx.re/assets/granted-assets?search=gx_"
     },
+    "gx_createnpc": {
+      "latest_version": "0.0.1",
+      "download_url": "https://portal.cfx.re/assets/granted-assets?search=gx_"
+    },
   }
 }

@@ -16,7 +16,11 @@
       "latest_version": "0.0.1",
       "download_url": "https://portal.cfx.re/assets/granted-assets?search=gx_"
     },
-  "gx_steal": {
+    "gx_steal": {
+      "latest_version": "0.0.1",
+      "download_url": "https://portal.cfx.re/assets/granted-assets?search=gx_"
+    },
+    "gx_dialog": {
       "latest_version": "0.0.1",
       "download_url": "https://portal.cfx.re/assets/granted-assets?search=gx_"
     },

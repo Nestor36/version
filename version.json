@@ -24,5 +24,9 @@
       "latest_version": "0.0.5",
       "download_url": "https://portal.cfx.re/assets/granted-assets?search=gx_"
     },
+    "nor_announce":{
+      "latest_version": "0.0.1",
+      "download_url": "https://portal.cfx.re/assets/granted-assets?search=nor_"
+    },
   }
 }
